@@ -1,0 +1,17 @@
+#Guessing game
+
+import random
+
+def guess(x):
+    rano=random.randint(1,x)
+
+    guess = 0
+    while guess != rano:
+        guess=int(input(f"Enter your guess here between 1 and {x}"))
+        if guess<rano:
+            print("Try a lil bit up")
+        elif guess>rano:
+            print("try a lil bit below")
+
+    print("There you go!! that's correct")
+guess(12)
