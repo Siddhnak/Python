@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:-1, Stream Name
+https://cdn.indexer.eu.org/-1002047730167/353/1719795025/434ee520e7beadfef615c5667d49e871ed5a4f0e34b525207aed304d2d27e078
+
+#EXTINF:-1 tvg-id="123" tvg-name="Channel 1" tvg-logo="http://example.com/logo1.png" group-title="News",Channel 1
+https://cdn.indexer.eu.org/-1002047730167/355/1719797266/001a50ba57d7e532d7ba7b914d1038cf1189aa4f406d0097afa2bc587ed57300
+
+http://bot.iamakintech.com/watch/AgADHR267074
